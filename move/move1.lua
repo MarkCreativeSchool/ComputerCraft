@@ -10,10 +10,10 @@ turtle.forward()
 turtle.back()
 
 # 右に回転
-turtle.right()
+turtle.turnRight()
 
 # 左に回転
-turtle.left()
+turtle.turnLeft()
 
 # 上に移動
 turtle.up()
